@@ -1,0 +1,26 @@
+body{
+    background-color: #2e1779;
+    color: white;
+      font-family: "Arial", sans-serif;
+
+}
+h1{
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+mark {background: #2f0c51!important;
+    font-size:20px;
+    color: white;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+
+}
+div{
+     text-align: center;
+}
+p{
+  width: 600px;
+  margin: 10px auto;
+  line-height: 1.5; /* Adds 1.5 times the normal line height */
+}
